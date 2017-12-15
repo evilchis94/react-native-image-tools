@@ -75,6 +75,7 @@ android {
 ...
 import com.adobe.creativesdk.foundation.AdobeCSDKFoundation;
 import com.adobe.creativesdk.foundation.auth.IAdobeAuthClientCredentials;
+import android.support.multidex.MultiDex;
 ...
 
 //add IAdobeAuthClientCredentials to the implements list
